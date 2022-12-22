@@ -26,6 +26,4 @@ Deployed Website:
 
 ## License
 
-Refer to the License file in the repo.
-
-Bootcamp module 1 challenge - refactor code to be more accessible 
+Refer to the License file in the repo. 
