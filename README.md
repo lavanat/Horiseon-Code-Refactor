@@ -14,9 +14,9 @@ You can use this website to see an example of accessible code. This website can 
 
 ## Links
 
-Link to starter code: https://github.com/coding-boot-camp/urban-octo-telegram
-Link to Repo: https://github.com/lavanat/Horiseon-Code-Refactor
-Link to Deployed application: https://lavanat.github.io/Horiseon-Code-Refactor/
+- Link to starter code: https://github.com/coding-boot-camp/urban-octo-telegram
+- Link to Repo: https://github.com/lavanat/Horiseon-Code-Refactor
+- Link to Deployed application: https://lavanat.github.io/Horiseon-Code-Refactor/
 
 ## Screenshots
 
